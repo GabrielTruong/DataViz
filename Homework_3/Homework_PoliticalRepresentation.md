@@ -51,4 +51,10 @@ As far as color is concerned, I would have added some green to the gradient of c
 
 I don't like the fat table under the map. Because there are some many countries, it would take ages to find a particular country. So I would have merged the tab and the maps dynamically to show the evolution year by year of the data. Otherwise I would have added a searchbar to find a country by its name.
 
-https://public.tableau.com/app/profile/truong5696/viz/Womeninpolitics_16525689506490/Tableaudebord1
+## **3. Make a new proposition [Link to my visualisation](https://public.tableau.com/app/profile/truong5696/viz/Womeninpolitics_16525689506490/Tableaudebord1)**
+
+## **4. Reflects**
+
+My new proposition is inspired by the original one. I just added a dynamic filter that enables the user to choose the year and the country he wants to study. I also changed the color to emphasize a value when a country has a fair proportion of seats held by women in national parliament. 
+
+The biggest improvement is the flexibility and highlighted value (year and country) offered to the user on the dashboard.
